@@ -90,6 +90,11 @@ Want to practice safely? Set up a local test environment:
 python main.py http://localhost:8080/login -w wordlists/common_passwords.txt -u admin
 ```
 
+## 📚 System Requirements
+
+- **Python 3.8+** (3.7 is no longer supported by GitHub Actions)
+- Dependencies listed in `requirements.txt`
+
 ---
 
 **Remember**: Start with interactive mode for the best experience! 🎉

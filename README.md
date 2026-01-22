@@ -168,9 +168,9 @@ The tool uses `config.json` for default settings. You can customize:
 - Supports JavaScript-rendered forms
 - Compatible with various web frameworks
 
-## ⚙️ System Requirements
+## 🛠️ System Requirements
 
-- Python 3.7+
+- **Python 3.8+** (3.7 is no longer supported by GitHub Actions)
 - Dependencies listed in `requirements.txt`:
   - `requests==2.31.0`
   - `beautifulsoup4==4.12.2`
